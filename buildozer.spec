@@ -6,13 +6,13 @@ source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas
 version = 0.1
 
-requirements = python3,kivy==2.2.1,numpy,pillow
+requirements = python3,kivy==2.3.0
 
 orientation = portrait
 fullscreen = 0
 
 android.permissions = INTERNET, CAMERA, READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE
-android.api = 35
+android.api = 33
 android.ndk = 25b
 # android.sdk = 33
 android.archs = arm64-v8a
