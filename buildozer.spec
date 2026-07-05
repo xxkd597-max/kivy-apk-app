@@ -3,7 +3,7 @@ title = ImageQuality
 package.name = imagequality
 package.domain = org.test
 source.dir = .
-source.include_exts = py,png,jpg,jpeg,kv,atlas
+source.include_exts = py,png,jpg,jpeg,bmp,webp,kv,atlas,ttf
 version = 0.1
 
 requirements = python3,kivy==2.3.0
